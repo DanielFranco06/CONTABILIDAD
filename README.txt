@@ -10,4 +10,4 @@ Parametrización aplicación (opcional):
 3. si desean utilizar los tipos de medio de pago utilizado en el desarrollo, ejecutar el script TIPOS_MEDIO_PAGO.sql
 Nota:
 * En caso de que se desee crear los propios parametros, se debe ingresar a la opción del menú parametrización.
-* Al momento de crear las secuencias se deben establecer en 1.
+* En caso de que se desee crear los propios parametros, al momento de crear las secuencias se deben establecer en 1.
